@@ -21,6 +21,8 @@ permalink: /projects/
     <input type="submit" value="Explore Project" />
 </form>
 
+<p style="color:dimgray;font-size:10px;font-family:candara;">Image used from https://medium.com/@hugh.winchester/sum-all-odd-fibonacci-numbers-48002954db5f.</p>
+
 
 
 
@@ -41,3 +43,5 @@ permalink: /projects/
 <form action="https://docs.google.com/document/d/1mZTw22FuZeejU5y0Lum6mOrnkodL6DoZ7PZmEx4IUl0/edit?usp=sharing">
     <input type="submit" value="Explore Project" />
 </form>
+
+<p style="color:dimgray;font-size:10px;font-family:candara;">Image used from https://www.newgenapps.com/blog/most-common-use-cases-for-enterprise-machine-learning/.</p>
