@@ -20,7 +20,7 @@ permalink: /projects/
 <form action="https://github.com/csc225spring20/asgn6-CBrazell23">
     <input type="submit" value="Explore Project" />
 </form>
-
+<br>
 <p style="color:dimgray;font-size:10px;font-family:candara;">Image used from https://medium.com/@hugh.winchester/sum-all-odd-fibonacci-numbers-48002954db5f.</p>
 
 
