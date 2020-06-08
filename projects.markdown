@@ -1,11 +1,43 @@
 ---
 layout: page
-title: Projects
+title: Project Portfolio
 permalink: /projects/
 ---
+<body style="background-color:mediumaquamarine;">
 
-<strong>Fibonnaci</strong>
-<p>Created a project at https://github.com/csc225spring20/asgn6-CBrazell23 that uses Assembly language and C which allows the user to input which number of the fibonnaci sequence they would like to know and then returns that number. This project demonstrates ability to use recursion within Assembly</p>
+<br>
 
-<strong>Translation Project</strong>
-<p>Created a project at https://docs.google.com/document/d/1mZTw22FuZeejU5y0Lum6mOrnkodL6DoZ7PZmEx4IUl0/edit?usp=sharing that demonstrates my ability to write technically in a way that simplifies difficult language for more readers to understand.
+<img src="../fib.jpg" alt="Fibonacci in Nature" width="350" height="262" ALIGN="left" HSPACE="20">
+
+<strong style="color:black;font-size:20px;font-family:candara;">Fibonnaci</strong>
+<br>
+<br>
+<br>
+<br>
+
+<p style="color:dimgray;font-size:20px;font-family:candara;">A  program that was written in both C and Assembly Language that returns a number corresponding to the fibonnaci sequence based on user input.</p>
+
+<form action="https://github.com/csc225spring20/asgn6-CBrazell23">
+    <input type="submit" value="Explore Project" />
+</form>
+
+
+
+
+<br>
+<br>
+
+
+
+
+<img src="../mach.jpg" alt="Machine Learning" width="350" height="262" ALIGN="left" HSPACE="20">
+<strong style="color:black;font-size:20px;font-family:candara;">Writing Project</strong>
+
+<br>
+<br>
+
+<p style="color:dimgray;font-size:20px;font-family:candara;">A report that explores the intricacies of machine learning and the different techniques that can be used to create intelligent AI. The information is displayed in a manner that allows non-technical readers to comprehend the subject.
+
+<form action="https://docs.google.com/document/d/1mZTw22FuZeejU5y0Lum6mOrnkodL6DoZ7PZmEx4IUl0/edit?usp=sharing">
+    <input type="submit" value="Explore Project" />
+</form>

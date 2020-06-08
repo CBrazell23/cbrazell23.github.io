@@ -4,3 +4,6 @@
 
 layout: home
 ---
+<body style="background-color:mediumaquamarine;">
+
+<img src="../pic3.jpg" width="230" height="310" ALIGN="left" HSPACE="20">

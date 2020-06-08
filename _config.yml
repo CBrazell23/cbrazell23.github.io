@@ -29,10 +29,13 @@ linkedin_username: private
 instagram_username: private
 github_username:  CBrazell23
 
+
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

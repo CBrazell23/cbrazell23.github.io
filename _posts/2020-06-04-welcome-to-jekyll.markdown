@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Hello, World! I'm a Software Engineer."
-#date:   2020-06-04 20:26:13 -0700
+title:  "Explore my Portfolio Site"
 categories: jekyll update
 ---
-Feel free to browse to learn more about me, projects I've completed, as well as view my resume. You can find ways to contact me by navigating back to the home page.
+<body style="background-color:mediumaquamarine;">
+
+Learn more about me, see the projects I've completed, and view my resume through my portfolio site. Navigate using the buttons at the top.

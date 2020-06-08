@@ -1,13 +1,34 @@
 ---
 layout: page
-title: About me
+title: About Me
 permalink: /about/
 ---
+<body style="background-color:mediumaquamarine;">
 
-![Cole-Brazell](images/IMG_2311.jpg){:class="img-responsive"}
 
-Hi! My name is Cole and I'm a software engineer currently studying at California Polytechnic State University. I enjoy working on projects that allow me to express my creativity and always work above and beyond to create a pixel-perfect product that I am proud to share. 
+<img src="/pic.jpg" width="220" height="293" ALIGN="left" HSPACE="20">
 
-I have a lot of experience working with Java, Python, and Machine Code. I have had further experience working with C and Arduino.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p style="color:dimgray;font-size:20px;font-family:candara;">Hi! My name is Cole and I'm a software engineer currently studying at California Polytechnic State University. I enjoy working on projects that allow me to express my creativity and always work above and beyond to create a pixel-perfect product that I am proud to share.</p>
 
-I'm currently looking for new opportunities so feel free to send me an email if you liked my work on Github
+<br>
+<br>
+
+<h1 style="color:black;font-size:45px;font-family:arial;" >Interests</h1>
+<br>
+
+<img src="/pic2.jpg" width="220" height="293" ALIGN="left" HSPACE="20">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p style="color:dimgray;font-size:20px;font-family:candara;">When I'm not working behind the computer, I love being out in nature. The perfect day for me includes backpacking to a remote location with a lake where I can swim, cliff jump, and rock climb, with the day ending sitting around a campfire.</p>
+
