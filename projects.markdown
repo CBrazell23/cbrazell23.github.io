@@ -17,7 +17,7 @@ permalink: /projects/
 
 <p style="color:dimgray;font-size:20px;font-family:candara;">A  program that was written in both C and Assembly Language that returns a number corresponding to the fibonnaci sequence based on user input.</p>
 
-<form action="https://github.com/csc225spring20/asgn6-CBrazell23">
+<form action="https://github.com/CBrazell23/Fibonacci">
     <input type="submit" value="Explore Project" />
 </form>
 <br>
